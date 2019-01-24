@@ -6,10 +6,10 @@ yarn install
 # Project Build
 yarn build
 
-#Cordova Build
+# Cordova Build
 cordova build android
 
-#Cordova Run
+# Cordova Run
 cordova run android
 
 # Project Run
