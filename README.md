@@ -1,1 +1,1 @@
-# Cordova-Firebase-Push-Notifications
+# Vue-Cordova-Firebase-Push-Notifications
