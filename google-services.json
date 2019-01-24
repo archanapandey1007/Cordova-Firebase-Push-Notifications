@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "791080282667",
+    "firebase_url": "https://epandit.firebaseio.com",
+    "project_id": "epandit",
+    "storage_bucket": "epandit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791080282667:android:563fd529008c7579",
+        "android_client_info": {
+          "package_name": "in.aquariansoft.epanditji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791080282667-i11pemtuedeq6vf90337hopsph526amg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7Cxt09PehQpTp1T2lDkx5f9_AwkLOR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
